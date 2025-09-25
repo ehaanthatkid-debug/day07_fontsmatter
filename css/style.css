@@ -1,7 +1,20 @@
-.div{
+.div1{
 background-color: blue;
 width: 500px;
 height: 450px;
+}
+.div2{
+background-color: red; 
+width: 500px;
+height: 450px;
 
-
+}
+.div3{
+background-color: green;
+width: 500px;   
+height: 450px;
+margin-left: 50px;
+margin-top: 100px;
+margin-right: 50px;
+margin-bottom: 100px;
 }
